@@ -1,0 +1,9 @@
+langchain-community 
+langchain 
+crewai 
+langchain-core 
+langchain-google-vertexai 
+langchain_google_genai
+google-generativeai
+duckduckgo-search
+python_dotenv
